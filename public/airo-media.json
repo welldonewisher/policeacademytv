@@ -1,0 +1,32 @@
+{
+  "pages/home/listing-leadership": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2265168015"
+  },
+  "pages/home/listing-firearms": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2217328029"
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2246669577"
+  },
+  "pages/home/listing-tactical": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/925123658"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/073539ae-9005-45cf-8b59-be8549989504/favicon-transparent-49261886-c3c5-4ee8-93a7-0ad42b5681fa/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/073539ae-9005-45cf-8b59-be8549989504/favicon-transparent-49261886-c3c5-4ee8-93a7-0ad42b5681fa/logo-logo.png"
+  },
+  "pages/videos/thumbnail-placeholder": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2150978649"
+  }
+}

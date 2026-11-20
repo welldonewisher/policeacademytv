@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "headline": "Watch. Learn. Serve.",
+    "subheadline": "Exclusive law enforcement training videos, academy spotlights, and tactical breakdowns — straight from the field."
+  },
+  "sectionHeading": "Latest Videos",
+  "sectionSubheading": "Click any video to watch. New content added weekly.",
+  "videos": [
+    {
+      "id": "v-01",
+      "title": "Vijay GOAT — The Jaw-Breaking Moment",
+      "category": "Tactical Response",
+      "duration": "3:51",
+      "views": "48K",
+      "youtubeId": "wRSks1RGKG0"
+    },
+    {
+      "id": "v-02",
+      "title": "",
+      "category": "Firearms",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-03",
+      "title": "",
+      "category": "Leadership",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-04",
+      "title": "",
+      "category": "Tactical Response",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-05",
+      "title": "",
+      "category": "Physical Training",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-06",
+      "title": "",
+      "category": "Firearms",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-07",
+      "title": "",
+      "category": "Leadership",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-08",
+      "title": "",
+      "category": "Tactical Response",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-09",
+      "title": "",
+      "category": "Physical Training",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-10",
+      "title": "",
+      "category": "Firearms",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-11",
+      "title": "",
+      "category": "Leadership",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    },
+    {
+      "id": "v-12",
+      "title": "",
+      "category": "Tactical Response",
+      "duration": "",
+      "views": "",
+      "youtubeId": ""
+    }
+  ]
+}

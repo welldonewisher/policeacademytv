@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "headline": "Find Your Academy.",
+    "headlineAccent": "Forge Your Career.",
+    "subheadline": "Bravery above all. Valor unmatched. Discover elite law enforcement training programs, academies, and courses across the nation.",
+    "searchPlaceholder": "Search academies, courses, or locations...",
+    "ctaLabel": "Search Now"
+  },
+  "stats": [
+    {
+      "id": "stat-1",
+      "value": "1,200+",
+      "label": "Academies Listed"
+    },
+    {
+      "id": "stat-2",
+      "value": "50",
+      "label": "States Covered"
+    },
+    {
+      "id": "stat-3",
+      "value": "10K+",
+      "label": "Officers Trained"
+    }
+  ],
+  "categoriesHeading": "Browse by Discipline",
+  "categoriesSubheading": "From tactical response to cyber crime — find the training that forges the officer you're meant to be.",
+  "categories": [
+    {
+      "id": "cat-1",
+      "label": "Firearms Training",
+      "count": "240+ listings"
+    },
+    {
+      "id": "cat-2",
+      "label": "Tactical Response",
+      "count": "185+ listings"
+    },
+    {
+      "id": "cat-3",
+      "label": "K9 Units",
+      "count": "98+ listings"
+    },
+    {
+      "id": "cat-4",
+      "label": "Leadership",
+      "count": "312+ listings"
+    },
+    {
+      "id": "cat-5",
+      "label": "Cyber Crime",
+      "count": "156+ listings"
+    },
+    {
+      "id": "cat-6",
+      "label": "Detective Skills",
+      "count": "203+ listings"
+    },
+    {
+      "id": "cat-7",
+      "label": "Crisis Negotiation",
+      "count": "74+ listings"
+    },
+    {
+      "id": "cat-8",
+      "label": "Physical Fitness",
+      "count": "421+ listings"
+    }
+  ],
+  "featuredHeading": "Featured Academies",
+  "featuredSubheading": "Vetted, respected, and proven — these institutions set the standard.",
+  "featuredListings": [
+    {
+      "id": "listing-1",
+      "title": "National Firearms Training Institute",
+      "location": "Quantico, VA",
+      "category": "Firearms Training",
+      "rating": "4.9",
+      "reviews": "312",
+      "description": "Elite marksmanship and tactical firearms training trusted by federal agencies and state law enforcement nationwide.",
+      "badge": "Top Rated"
+    },
+    {
+      "id": "listing-2",
+      "title": "Pacific SWAT & Tactical Academy",
+      "location": "San Diego, CA",
+      "category": "Tactical Response",
+      "rating": "4.8",
+      "reviews": "198",
+      "description": "Specialized tactical response training with real-world scenario simulations, used by SWAT teams across the West Coast.",
+      "badge": "Featured"
+    },
+    {
+      "id": "listing-3",
+      "title": "Command Leadership Institute",
+      "location": "Chicago, IL",
+      "category": "Leadership",
+      "rating": "4.7",
+      "reviews": "445",
+      "description": "Develop command presence, crisis decision-making, and leadership skills for officers moving into supervisory roles.",
+      "badge": "Verified"
+    }
+  ],
+  "ctaHeading": "List Your Academy",
+  "ctaSubheading": "Join the nation's most trusted law enforcement training directory.",
+  "ctaBody": "Whether you run a regional academy, a specialized course, or a national training program — your institution belongs here. Reach thousands of officers, recruits, and administrators actively searching for training.",
+  "ctaButtonLabel": "Submit a Listing",
+  "ctaNote": "Free to list. No credit card required."
+}

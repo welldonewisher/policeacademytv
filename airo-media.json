@@ -1,0 +1,206 @@
+{
+  "pages/home/listing-leadership": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2265168015",
+    "searchQuery": "police academy graduation ceremony officers",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2138898864",
+      "https://img1.wsimg.com/isteam/getty/598214480"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T19:18:08.775Z",
+    "lastUpdated": "2026-11-18T19:18:08.775Z",
+    "gettyId": "2265168015",
+    "alternativeGettyIds": [
+      "2138898864",
+      "598214480"
+    ]
+  },
+  "pages/home/listing-firearms": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2217328029",
+    "searchQuery": "firearms training range law enforcement instructor",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1805737737",
+      "https://img1.wsimg.com/isteam/getty/1372757341"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T19:18:09.151Z",
+    "lastUpdated": "2026-11-18T19:18:09.151Z",
+    "gettyId": "2217328029",
+    "alternativeGettyIds": [
+      "1805737737",
+      "1372757341"
+    ]
+  },
+  "pages/home/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2246669577",
+    "searchQuery": "police officers in formation tactical training dark cinematic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2177343981",
+      "https://img1.wsimg.com/isteam/getty/2161577715",
+      "https://img1.wsimg.com/isteam/getty/925123678",
+      "https://img1.wsimg.com/isteam/getty/2265167590"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T19:18:09.527Z",
+    "lastUpdated": "2026-11-18T19:18:09.527Z",
+    "gettyId": "2246669577",
+    "alternativeGettyIds": [
+      "2177343981",
+      "2161577715",
+      "925123678",
+      "2265167590"
+    ]
+  },
+  "pages/home/listing-tactical": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/925123658",
+    "searchQuery": "police tactical response SWAT team training",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1218376271",
+      "https://img1.wsimg.com/isteam/getty/1278381088"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T19:18:10.810Z",
+    "lastUpdated": "2026-11-18T19:18:10.810Z",
+    "gettyId": "925123658",
+    "alternativeGettyIds": [
+      "1218376271",
+      "1278381088"
+    ]
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png",
+    "searchQuery": "A bold shield/badge emblem for POLICACADEMYTV — a classic law enforcement badge ",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-original-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png": {
+        "sessionId": "c9f56edb-87bc-4534-b337-c1614c637fc8",
+        "logoId": "35912ab8-ac13-44b9-bb84-aeeb7c0a4059",
+        "groupId": "2559e366-5800-44ca-8e7e-d090d52608c5"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-mug-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-card-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-tshirt-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-box-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-mug-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-card-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-tshirt-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-mockup-box-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T19:18:29.234Z",
+    "lastUpdated": "2026-11-18T19:18:54.535Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0e1a",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/c9f56edb-87bc-4534-b337-c1614c637fc8/horizontal-transparent-35912ab8-ac13-44b9-bb84-aeeb7c0a4059/logo-logo.png",
+    "logoGroupId": "2559e366-5800-44ca-8e7e-d090d52608c5"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/073539ae-9005-45cf-8b59-be8549989504/favicon-transparent-49261886-c3c5-4ee8-93a7-0ad42b5681fa/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/073539ae-9005-45cf-8b59-be8549989504/favicon-transparent-49261886-c3c5-4ee8-93a7-0ad42b5681fa/logo-logo.png": {
+        "sessionId": "073539ae-9005-45cf-8b59-be8549989504",
+        "logoId": "49261886-c3c5-4ee8-93a7-0ad42b5681fa",
+        "groupId": "2559e366-5800-44ca-8e7e-d090d52608c5"
+      }
+    },
+    "logoGroupId": "2559e366-5800-44ca-8e7e-d090d52608c5",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/073539ae-9005-45cf-8b59-be8549989504/favicon-transparent-49261886-c3c5-4ee8-93a7-0ad42b5681fa/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/073539ae-9005-45cf-8b59-be8549989504/favicon-original-49261886-c3c5-4ee8-93a7-0ad42b5681fa/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-11-18T19:18:42.550Z",
+    "lastUpdated": "2026-11-18T19:18:54.634Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0e1a",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/ffa7762f-7318-4bb9-818d-5845f5024f9f/session/073539ae-9005-45cf-8b59-be8549989504/favicon-transparent-49261886-c3c5-4ee8-93a7-0ad42b5681fa/logo-logo.png"
+  },
+  "pages/videos/thumbnail-placeholder": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2150978649",
+    "searchQuery": "Tamil Nadu police officer press conference podium official statement",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1367122581",
+      "https://img1.wsimg.com/isteam/getty/2266954433",
+      "https://img1.wsimg.com/isteam/getty/1447870304",
+      "https://img1.wsimg.com/isteam/getty/1296979920"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-20T12:47:12.260Z",
+    "lastUpdated": "2026-11-20T12:47:12.260Z",
+    "gettyId": "2150978649",
+    "alternativeGettyIds": [
+      "1367122581",
+      "2266954433",
+      "1447870304",
+      "1296979920"
+    ]
+  }
+}

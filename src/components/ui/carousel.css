@@ -1,0 +1,17 @@
+/* A cover image must fill its aspect-ratio frame, independently of the uploaded
+   asset's intrinsic size. Keep this on the shared carousel so Replace, Move and
+   the published page use the same sizing. Contain/letterboxed images opt out.
+   Display stays untouched so hidden and responsive-hidden images stay hidden;
+   vertical-align removes the inline baseline gap instead. */
+[aria-roledescription="carousel"] :where([class*="aspect-"]):has(> img.object-cover) {
+  overflow: hidden;
+}
+
+[aria-roledescription="carousel"] :where([class*="aspect-"]) > img.object-cover {
+  vertical-align: top;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: none;
+  max-height: none;
+}
